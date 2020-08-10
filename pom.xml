@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.moben</groupId>
 	<artifactId>springbatch</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>springbatch</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -66,7 +66,7 @@
 			<artifactId>lombok</artifactId>
 			<scope>compile</scope>
 		</dependency>
-		<!--xml转成对象 -->
+		<!--xml脳陋鲁脡露脭脧贸 -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-oxm</artifactId>
