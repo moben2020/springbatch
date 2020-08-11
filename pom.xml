@@ -7,9 +7,9 @@
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>2.1.3.RELEASE</version>
-    <relativePath /> <!-- lookup parent from repository -->
+    <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.moben</groupId>
+  <groupId>moben</groupId>
   <artifactId>springbatch</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>springbatch</name>
